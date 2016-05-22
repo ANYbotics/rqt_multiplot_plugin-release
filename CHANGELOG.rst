@@ -2,6 +2,11 @@
 Changelog for package rqt_multiplot
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.3 (2016-05-22)
+------------------
+* fixes for release
+* Contributors: Samuel Bachmann
+
 0.0.2 (2016-05-20)
 ------------------
 * Fixes related to OS X clang compatibility and added support for Qwt >= 6.1
