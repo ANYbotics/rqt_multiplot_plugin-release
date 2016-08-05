@@ -1,3 +1,26 @@
+## rqt_multiplot_plugin (indigo) - 0.0.5-0
+
+The packages in the `rqt_multiplot_plugin` repository were released into the `indigo` distro by running `/usr/bin/bloom-release rqt_multiplot_plugin --track indigo --rosdistro indigo` on `Fri, 05 Aug 2016 09:12:48 -0000`
+
+The `rqt_multiplot` package was released.
+
+Version of package(s) in repository `rqt_multiplot_plugin`:
+
+- upstream repository: https://github.com/ethz-asl/rqt_multiplot_plugin.git
+- release repository: https://github.com/ethz-asl/rqt_multiplot_plugin-release.git
+- rosdistro version: `0.0.4-0`
+- old version: `0.0.4-0`
+- new version: `0.0.5-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## rqt_multiplot_plugin (indigo) - 0.0.4-0
 
 The packages in the `rqt_multiplot_plugin` repository were released into the `indigo` distro by running `/usr/bin/bloom-release rqt_multiplot_plugin --track indigo --rosdistro indigo` on `Mon, 23 May 2016 15:40:55 -0000`
