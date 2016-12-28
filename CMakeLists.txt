@@ -69,6 +69,7 @@ set(rqt_multiplot_SRCS
   src/rqt_multiplot/CurveDataConfig.cpp
   src/rqt_multiplot/CurveDataConfigWidget.cpp
   src/rqt_multiplot/CurveDataList.cpp
+  src/rqt_multiplot/CurveDataListTimeFrame.cpp
   src/rqt_multiplot/CurveDataSequencer.cpp
   src/rqt_multiplot/CurveDataVector.cpp
   src/rqt_multiplot/CurveItemWidget.cpp
@@ -127,6 +128,7 @@ set(rqt_multiplot_SRCS
   src/rqt_multiplot/PlotZoomerMachine.cpp
   src/rqt_multiplot/ProgressChangeEvent.cpp
   src/rqt_multiplot/ProgressWidget.cpp
+  src/rqt_multiplot/QwtPlotCustom.cpp
   src/rqt_multiplot/StatusWidget.cpp
   src/rqt_multiplot/ThreadedTimer.cpp
   src/rqt_multiplot/UrlComboBox.cpp
@@ -159,6 +161,7 @@ set(rqt_multiplot_HDRS
   include/rqt_multiplot/CurveDataConfig.h
   include/rqt_multiplot/CurveDataConfigWidget.h
   include/rqt_multiplot/CurveDataList.h
+  include/rqt_multiplot/CurveDataListTimeFrame.h
   include/rqt_multiplot/CurveDataSequencer.h
   include/rqt_multiplot/CurveDataVector.h
   include/rqt_multiplot/CurveItemWidget.h
@@ -217,6 +220,7 @@ set(rqt_multiplot_HDRS
   include/rqt_multiplot/PlotZoomerMachine.h
   include/rqt_multiplot/ProgressChangeEvent.h
   include/rqt_multiplot/ProgressWidget.h
+  include/rqt_multiplot/QwtPlotCustom.h
   include/rqt_multiplot/StatusWidget.h
   include/rqt_multiplot/ThreadedTimer.h
   include/rqt_multiplot/UrlComboBox.h
@@ -317,9 +321,6 @@ install(TARGETS rqt_multiplot
   RUNTIME DESTINATION ${CATKIN_GLOBAL_BIN_DESTINATION}
 )
 
-install(PROGRAMS scripts/rqt_multiplot
-  DESTINATION ${CATKIN_GLOBAL_BIN_DESTINATION}
-)
 install(PROGRAMS scripts/rqt_multiplot
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
