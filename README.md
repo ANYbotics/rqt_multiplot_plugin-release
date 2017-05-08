@@ -1,3 +1,26 @@
+## rqt_multiplot_plugin (jade) - 0.0.7-1
+
+The packages in the `rqt_multiplot_plugin` repository were released into the `jade` distro by running `/usr/bin/bloom-release rqt_multiplot_plugin --track jade --rosdistro jade` on `Mon, 08 May 2017 19:25:40 -0000`
+
+The `rqt_multiplot` package was released.
+
+Version of package(s) in repository `rqt_multiplot_plugin`:
+
+- upstream repository: https://github.com/ethz-asl/rqt_multiplot_plugin.git
+- release repository: https://github.com/ethz-asl/rqt_multiplot_plugin-release.git
+- rosdistro version: `0.0.6-0`
+- old version: `0.0.7-0`
+- new version: `0.0.7-1`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## rqt_multiplot_plugin (kinetic) - 0.0.7-2
 
 The packages in the `rqt_multiplot_plugin` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release rqt_multiplot_plugin --track kinetic --rosdistro kinetic` on `Mon, 08 May 2017 19:23:05 -0000`
