@@ -2,6 +2,12 @@
 Changelog for package rqt_multiplot
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.7 (2017-05-08)
+------------------
+* fix issues when plotting constant values
+* fix plotting with receipt time
+* Contributors: Samuel Bachmann
+
 0.0.6 (2016-12-28)
 ------------------
 * reduce min plot size
