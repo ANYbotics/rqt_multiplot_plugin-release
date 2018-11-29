@@ -1,3 +1,26 @@
+## rqt_multiplot_plugin (melodic) - 0.0.8-0
+
+The packages in the `rqt_multiplot_plugin` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --track melodic rqt_multiplot_plugin --edit` on `Thu, 29 Nov 2018 06:53:32 -0000`
+
+The `rqt_multiplot` package was released.
+
+Version of package(s) in repository `rqt_multiplot_plugin`:
+
+- upstream repository: https://github.com/anybotics/rqt_multiplot_plugin.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.8-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.9`
+- catkin_pkg version: `0.4.9`
+- rosdep version: `0.13.0`
+- rosdistro version: `0.7.0`
+- vcstools version: `0.1.40`
+
+
 ## rqt_multiplot_plugin (lunar) - 0.0.8-0
 
 The packages in the `rqt_multiplot_plugin` repository were released into the `lunar` distro by running `/usr/bin/bloom-release --rosdistro lunar --track lunar rqt_multiplot_plugin --edit` on `Thu, 29 Nov 2018 06:41:43 -0000`
