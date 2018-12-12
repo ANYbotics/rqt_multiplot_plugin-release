@@ -1,3 +1,26 @@
+## rqt_multiplot_plugin (kinetic) - 0.0.9-0
+
+The packages in the `rqt_multiplot_plugin` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release rqt_multiplot_plugin --rosdistro kinetic` on `Wed, 12 Dec 2018 06:48:04 -0000`
+
+The `rqt_multiplot` package was released.
+
+Version of package(s) in repository `rqt_multiplot_plugin`:
+
+- upstream repository: https://github.com/ethz-asl/rqt_multiplot_plugin.git
+- release repository: https://github.com/anybotics/rqt_multiplot_plugin-release.git
+- rosdistro version: `0.0.8-0`
+- old version: `0.0.8-0`
+- new version: `0.0.9-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.9`
+- catkin_pkg version: `0.4.9`
+- rosdep version: `0.13.0`
+- rosdistro version: `0.7.0`
+- vcstools version: `0.1.40`
+
+
 ## rqt_multiplot_plugin (melodic) - 0.0.8-1
 
 The packages in the `rqt_multiplot_plugin` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --track melodic rqt_multiplot_plugin --edit` on `Mon, 03 Dec 2018 10:27:26 -0000`
