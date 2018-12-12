@@ -2,6 +2,11 @@
 Changelog for package rqt_multiplot
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.9 (2018-12-12)
+------------------
+* fix rosdep key
+* Contributors: Samuel Bachmann
+
 0.0.8 (2018-11-21)
 ------------------
 * Make your library usable
