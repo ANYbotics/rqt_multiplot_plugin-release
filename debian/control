@@ -1,0 +1,12 @@
+Source: ros-lunar-rqt-multiplot
+Section: misc
+Priority: extra
+Maintainer: Ralf Kaestner <ralf.kaestner@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), libqwt-qt5-dev, qtbase5-dev, ros-lunar-catkin, ros-lunar-rosbag, ros-lunar-roscpp, ros-lunar-rqt-gui, ros-lunar-rqt-gui-cpp, ros-lunar-variant-topic-tools
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-lunar-rqt-multiplot
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libqwt-qt5-dev, qtbase5-dev, ros-lunar-rosbag, ros-lunar-roscpp, ros-lunar-rqt-gui, ros-lunar-rqt-gui-cpp, ros-lunar-variant-topic-tools
+Description: rqt_multiplot provides a GUI plugin for visualizing numeric values in multiple 2D plots using the Qwt plotting backend.
