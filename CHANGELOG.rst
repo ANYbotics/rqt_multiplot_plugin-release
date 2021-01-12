@@ -2,6 +2,10 @@
 Changelog for package rqt_multiplot
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.11 (2021-01-06)
+-------------------
+* update for Ros noetic
+
 0.0.10 (2018-12-13)
 -------------------
 * add missing dependency and use format 2 in package.xml
@@ -37,7 +41,7 @@ Changelog for package rqt_multiplot
 
 0.0.5 (2016-08-05)
 ------------------
-* fixes `#2 <https://github.com/ethz-asl/rqt_multiplot_plugin/issues/2>`_ a QT API change
+* fixes `#2 <https://github.com/anybotics/rqt_multiplot_plugin/issues/2>`_ a QT API change
 * rename two tooltips (copy and past curve) in PlotConfigWidget
 * qt5 ready
 * Contributors: Samuel Bachmann
