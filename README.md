@@ -1,3 +1,26 @@
+## rqt_multiplot_plugin (noetic) - 0.0.12-1
+
+The packages in the `rqt_multiplot_plugin` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --rosdistro noetic rqt_multiplot_plugin` on `Thu, 14 Jan 2021 13:20:00 -0000`
+
+The `rqt_multiplot` package was released.
+
+Version of package(s) in repository `rqt_multiplot_plugin`:
+
+- upstream repository: https://github.com/anybotics/rqt_multiplot_plugin.git
+- release repository: https://github.com/anybotics/rqt_multiplot_plugin-release.git
+- rosdistro version: `0.0.11-1`
+- old version: `0.0.11-1`
+- new version: `0.0.12-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.0`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## rqt_multiplot_plugin (noetic) - 0.0.11-1
 
 The packages in the `rqt_multiplot_plugin` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --rosdistro noetic --track noetic rqt_multiplot_plugin` on `Tue, 12 Jan 2021 06:09:03 -0000`
