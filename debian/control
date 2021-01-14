@@ -1,0 +1,12 @@
+Source: ros-noetic-rqt-multiplot
+Section: misc
+Priority: optional
+Maintainer: Samuel Bachmann <sbachmann@anybotics.com>
+Build-Depends: debhelper (>= 9.0.0), libgtest-dev, libqwt-qt5-dev, qtbase5-dev, ros-noetic-catkin, ros-noetic-rosbag, ros-noetic-roscpp, ros-noetic-rqt-gui, ros-noetic-rqt-gui-cpp, ros-noetic-variant-topic-tools
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-noetic-rqt-multiplot
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libqwt-qt5-dev, qtbase5-dev, ros-noetic-rosbag, ros-noetic-roscpp, ros-noetic-rqt-gui, ros-noetic-rqt-gui-cpp, ros-noetic-variant-topic-tools
+Description: rqt_multiplot provides a GUI plugin for visualizing numeric values in multiple 2D plots using the Qwt plotting backend.
